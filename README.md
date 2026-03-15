@@ -20,4 +20,9 @@ Data preparation was done using **Power Query Editor** (part of Excel) and inclu
 - Filtering out invalid/missing values
 - Creating calculated fields needed for analysis
 
-
+## 📊 Analysis (Tableau)
+The analysis is performed in **Tableau** using the cleaned dataset. Key areas of investigation include:
+- Historical trends in global temperature change
+- CO₂ emissions over time (by country/region and global total)
+- Relationships between emissions and temperature anomalies
+- Regional comparisons and rankings
