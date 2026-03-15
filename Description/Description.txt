@@ -1,0 +1,16 @@
+The Global Climate Change Summary :
+It provides a multi-dimensional view of temperature data from the mid-18th century through the early 21st century, focusing heavily on regional trends in South Asia and the Middle East.
+1. Historical Temperature Trends (1753–2028)
+The Global Temperature Trend line graph shows a steady, volatile increase in average temperatures starting around the 1800s.
+Major Anomaly: There is a massive, unexplained spike in the data around the year 2003, where the "Average Temperature" values briefly jump to nearly 200K before returning to a baseline of approximately 100K by 2028. This suggests a significant data outlier or a specific localized event within the dataset.
+2. Geographical Temperature Distribution
+The dashboard highlights a clear correlation between latitude and heat:
+Latitude Correlation: The Temperature vs. Latitude scatter plot confirms that temperatures are highest near the equator (low latitudes) and steadily decrease as one moves toward the North Pole.
+Regional Hotspots: The Temperature by Country map shows a high density of data points across India, the Middle East (Abadan, Abu Dhabi), and East Africa (Asmara). The concentration of orange markers in South Asia indicates that this region represents a large portion of the dataset.
+3. Top Warming Cities
+The bar chart identifies specific urban areas with the highest average temperatures:
+Leading Cities: Avadi, Ambattur, and Alandur are the top three cities listed, followed by Alama and Bobo Dioulasso.
+Data Note: While the x-axis scale for this chart is labeled 0–30, the data labels for the top cities are significantly higher (e.g., 63,060), indicating a potential unit mismatch or a specific weighted index used for "warming" rather than raw.
+4. Summary Insights
+Data Density: The dashboard is heavily weighted toward cities in the Indian subcontinent, with many of the "Top Warming Cities" (like Bellary and Adoni) located in this region.
+Missing Data: The map indicates 71 unknown locations, suggesting that a portion of the recorded temperature data could not be precisely mapped to a specific city or country.
